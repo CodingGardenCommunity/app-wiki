@@ -2,7 +2,7 @@
 
 **Please follow this template for submitting pull requests to any of the Coding
 Garden Community App repos. Before beginning work, please check the open issues
-to see if the issue is already being worked on.**
+/ trello to see if the issue is already being worked on.**
 
 ## Summary
 
