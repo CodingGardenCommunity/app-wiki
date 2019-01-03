@@ -2,9 +2,6 @@
 
 >**Please follow this template for opening new issues for any of the Coding Garden Community App repos. Before beginning, please check the open issues to see if the your issue already exists. If it does not, feel free to open a new issue by following the provided template and relevant resources**
 ---
-## Title
->*Please give your new issue a title. Something short and descriptive*  
----
 ## Area of Development
 >*Please tell us what area of development this issue involves.* _Select all that apply._
 - [ ] Frontend
@@ -23,7 +20,7 @@
 - [ ] Support Issues
 - [ ] Documentation
   - [ ] Out of Date
-  - [ ] Spelling/Grammer
+  - [ ] Spelling/Grammar
 - [ ] Security Issue
   - [ ] High Risk
   - [ ] Medium Risk
@@ -31,16 +28,10 @@
 - [ ] Other  
 
 ---
-## Issue Affects:
-| Codearea | Relevance |
-| -------- | --------- |
-| Nav Component | mouseover brand bug |  
-
----
 ## Device Info
-| Make | Model | OS Version | App Version |
-| ---- | ----- | ---------- | ----------- |
-| Samsung | Galaxy S8 | 7.1 Wonkabar | 1.3.4 |  
+| OS (if applicable) | App Version |
+|:------------------ |:----------- |
+| Android 7.0 Nougat | 1.3.4       |
 
 ---
 ## Description
