@@ -1,3 +1,11 @@
+---
+name: General Pull Request Template
+description: Use this templat for all Pull Requests
+title:
+labels:
+assignee:
+---
+
 # Pull Request Template
 
 **Please follow this template for submitting pull requests to any of the Coding
